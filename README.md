@@ -1,28 +1,14 @@
 # 🚀  Developer Portfolio
 
 <div align="center">
-![Banner](https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- ![Banner](https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Cybersecurity-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Enterprise-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Enterprise-007396?style=for-the-badge&logo=java&logoColor=white) -->
 
 </div>
 
-## 📋 Table of Contents
-- [🌟 Overview](#-overview)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📁 Project Structure](#-project-structure)
-- [🚀 MERN TypeScript Projects](#-mern-typescript-projects)
-- [🔒 Python Cybersecurity Projects](#-python-cybersecurity-projects)
-- [⚙️ C & Java Projects](#️-c--java-projects)
-- [📦 Installation & Setup](#-installation--setup)
-- [🧪 Testing](#-testing)
-- [📈 Performance](#-performance)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-
----
 
 ## 🌟 Overview
 
